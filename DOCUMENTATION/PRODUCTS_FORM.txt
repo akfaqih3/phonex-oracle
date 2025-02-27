@@ -1,0 +1,11 @@
+--------------FORM_TRIGER-----------------
+--------WHEN-NEW-FORM-INSTANCE--------
+BEGIN
+	SET_MDI_WINDOW;
+END;
+
+
+
+
+
+---------------
